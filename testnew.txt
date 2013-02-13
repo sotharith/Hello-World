@@ -1,2 +1,0 @@
-Hello this is the first test of git.
-hi i love git
