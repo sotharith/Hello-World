@@ -1,3 +1,4 @@
+I love git
 Hello world!
 This is the fist test of github
 Hello to the new commit
@@ -6,3 +7,4 @@ I create the new branch
 OK
 Yes
 Hi
+we love git
